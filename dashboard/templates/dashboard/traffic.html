@@ -1,0 +1,35 @@
+{% extends "dashboard/base.html" %}
+
+{% block content %}
+
+<h2>Traffic Logs</h2>
+
+<table class="table table-dark table-striped">
+
+<thead>
+<tr>
+<th>Source</th>
+<th>Destination</th>
+<th>Protocol</th>
+<th>Size</th>
+</tr>
+</thead>
+
+<tbody>
+
+{% for row in traffic %}
+
+<tr>
+<td>{{ row.source_ip }}</td>
+<td>{{ row.destination_ip }}</td>
+<td>{{ row.protocol }}</td>
+<td>{{ row.packet_size }}</td>
+</tr>
+
+{% endfor %}
+
+</tbody>
+
+</table>
+
+{% endblock %}
