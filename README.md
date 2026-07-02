@@ -366,12 +366,9 @@ Included:
 Backend Developer • Cybersecurity Enthusiast • Machine Learning Enthusiast
 
 GitHub:
-https://github.com/YOUR_USERNAME
+https://github.com/dieudonne670
 
-LinkedIn:
-(Add your LinkedIn)
 
----
 
 # License
 
