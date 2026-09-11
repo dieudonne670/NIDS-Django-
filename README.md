@@ -512,7 +512,7 @@ Do not use the system to monitor or attack networks without proper authorization
 
 👨‍💻 Author
 
-Kindong Dieudonne: Software Engineering / Backend Development 
+Kindong Dieudonne: Software Engineer / Backend Developer 
 
 GitHub:
 https://github.com/dieudonne670
